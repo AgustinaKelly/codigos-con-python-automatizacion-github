@@ -8,6 +8,5 @@ else:
         resultado = (valorCompra - porcentaje)
         print('El monto abonar con descuento es: ', resultado)
 
-
 #agregue un comentario
     
